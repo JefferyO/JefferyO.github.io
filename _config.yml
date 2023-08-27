@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiefu Ou's Home Page"
 title_separator          : "-"
 name                     : &name "Jiefu Ou"
-description              : &description "Research Master (MLT) at LTI, CMU"
+description              : &description "PhD student at CLSP, JHU"
 url                      : https://jefferyo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jefferyo.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jiefu Ou"
-  avatar           : "profile_photo.JPG"
-  bio              : "Research Master Student (MLT) at LTI, CMU"
-  location         : "Pittsburgh, PA, USA"
-  employer         : "LTI, CMU"
+  avatar           : "bio-photo-2.jpg"
+  bio              : "PhD student at CLSP, JHU"
+  location         : "Baltimore, MD, USA"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=8toCyqEAAAAJ&hl=en"
-  email            : "jiefuo at andrew.cmu.edu"
+  googlescholar    : "https://scholar.google.co.id/citations?hl=en&user=m5Qck_IAAAAJ"
+  email            : "jou6 at jh dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@JiefuOu"
   vine             :
   weibo            :
   xing             :
