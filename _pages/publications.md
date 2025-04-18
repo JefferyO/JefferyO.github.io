@@ -7,7 +7,15 @@ author_profile: true
 
 *Remark: \* indicates equal contribution.*
 
+## Preprint
+- **CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?**\
+**Jiefu Ou***, William Gantt Walden*, Kate Sanders, Zhengping Jiang, Kaiser Sun, Jeffrey Cheng, William Jurayj, Miriam Wanner, Shaobo Liang, Candice Morgan, Seunghoon Han, Weiqi Wang, Chandler May, Hannah Recknor, Daniel Khashabi, Benjamin Van Durme.\
+arXiv. [[pdf]](https://arxiv.org/abs/2503.21717v1)
+
 ## Conference
+- **WorldAPIs: The World Is Worth How Many APIs? A Thought Experiment.**\
+**Jiefu Ou**, Arda Uzunoglu, Benjamin Van Durme, Daniel Khashabi.\
+AAAI 2025 [[pdf]](https://arxiv.org/abs/2407.07778)
 
 - **Pragmatic Inference with a CLIP Listener for Contrastive Captioning.**\
 **Jiefu Ou**, Benno Krojer, and Daniel Fried.\
