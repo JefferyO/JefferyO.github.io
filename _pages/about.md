@@ -16,10 +16,11 @@ Prior to CMU, I received my B.S. degree in Computer Science, and Mathematics & E
 ## Research Themes
 I am broadly interested in Natural Language Processing. My (current) goal of research is to build intelligent systems that can _communicate_ and _collaborate_ with humans in _dynamic environments_ for solving complex real-world tasks. Under this theme, I would like to explore:
 
-- **Language Grounding:** How can we tie language to the surrounding world (e.g. multimodal context/embodied environment)? And by doing so, can we obtain the language representation that is aware of perception, knowledge, and dynamics of the world?
-- **Interaction:** With the tremendous progress in the development and deployment of AI models (e.g. ChatGPT), how should we adapt these models to interact more effectively with human users? 
+- **Grounded Reasoning for Scientific Research**: Building AI systems that can assist researchers in digesting and enhancing scientific discovery, with grounded, explainable, and retrieval-augmented reasoning.
+  
+- **Interaction**: Developing better modes of interaction between human users and AI systems that foster effective collaboration and mutual adaptation, learning from complex-form human feedback.
 
-I regard these two directions to be highly _inter-connected_ and _mutually beneficial_: to use language as the mean of system-human interaction, grounding the communication to contexts helps the system understand user preference and intent so that to adjust its behavior accordingly to enable better collaboration.
+- **Natural Language and Code**: Code generation/interpretation in realistic and complicated scenarios.
 
 In the past, I also worked on information extraction, controlled generation, discourse analysis, and knowledge graph completion.
 
