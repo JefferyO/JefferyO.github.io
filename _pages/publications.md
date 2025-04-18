@@ -10,7 +10,7 @@ author_profile: true
 ## Preprint
 - **CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?**\
 **Jiefu Ou\***, William Gantt Walden\*, Kate Sanders, Zhengping Jiang, Kaiser Sun, Jeffrey Cheng, William Jurayj, Miriam Wanner, Shaobo Liang, Candice Morgan, Seunghoon Han, Weiqi Wang, Chandler May, Hannah Recknor, Daniel Khashabi, Benjamin Van Durme.\
-arXiv. [[pdf]](https://arxiv.org/abs/2503.21717v1)
+arXiv 2025. [[pdf]](https://arxiv.org/abs/2503.21717v1)
 
 ## Conference
 - **WorldAPIs: The World Is Worth How Many APIs? A Thought Experiment.**\
